@@ -5,7 +5,7 @@ Computer Science student at UiTM interested in Cybersecurity
 ## About me
 - Studying: Bachelor of Computer Science, UiTM
 - Currently learning: CSC649 Special Topics in Computer Science
-- My FYP area: Still deciding
+- My FYP area: Machine Learning
 
 ## Skills and tools
 C++ , Phyton, PHP
